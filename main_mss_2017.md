@@ -41,28 +41,118 @@ This Summer School is a joint offering by the Canadian Institutes of Health Rese
 
 [Transforming Science: Sex, Gender and the Microbiome](https://drive.google.com/a/bioinformatics.ca/file/d/1vNmn1S6lmMXBSRh0oq2DBCO1hUJ8dcju/view?usp=sharing)
 
+## Practical Training 1
 
-Marie-Pierre https://drive.google.com/a/bioinformatics.ca/file/d/1ygtAlYd_ur1ak6lgPnY5aYOpO0eTKSdf/view?usp=sharing
+*<font color="#827e9c">Morgan Langille</font>*
 
-Fred Assembly Based Metagenomics https://drive.google.com/a/bioinformatics.ca/file/d/1gz0WDrnE2mqV22h4kCaeoCoIiI5pH4rY/view?usp=sharing
+[16S Analysis/QIIME](https://drive.google.com/a/bioinformatics.ca/file/d/1ERpUwcAbxa3hQvKJWSdl2w8rzW1SWE5_/view?usp=sharing)
 
-Beiko Microbiomes, Metagenomes, and Marker Genes https://drive.google.com/a/bioinformatics.ca/file/d/1DMz4DTeoKcWXRsFh9cPeyyc1WCf7Mb5u/view?usp=sharing
+[16S Tutorial](https://github.com/LangilleLab/microbiome_helper/wiki/16S-tutorial-(chemerin))
 
-Brinkman Microbiome Biomarker Discovery https://drive.google.com/a/bioinformatics.ca/file/d/1_5UbLQhGYalH0AIRpqkWAUxCKat9PJfk/view?usp=sharing
+[Microbiome Helper](https://github.com/mlangill/microbiome_helper/wiki)
 
-John Metatranscriptomics https://drive.google.com/a/bioinformatics.ca/file/d/1yrIH025GV095ZeafJppfP4VTIsP67Kcz/view?usp=sharing
+[Microbiome Helper Official Virtual Machine](https://github.com/mlangill/microbiome_helper/wiki/Microbiome-Helper-Virtual-Box)
 
-Krystle Transforming Science: Sex, Gender and the Microbiome https://drive.google.com/a/bioinformatics.ca/file/d/1vNmn1S6lmMXBSRh0oq2DBCO1hUJ8dcju/view?usp=sharing
+## Plenary 3
 
-Morgan Langille Metagenomics Analysis https://drive.google.com/a/bioinformatics.ca/file/d/1evu7ozfBybDXCNRZIIwF1i6IeLn0s_T1/view?usp=sharing
+*<font color="#827e9c">Morgan Langille</font>*
 
-Jacques Corbeil GUTOME 1010 and Beyond https://drive.google.com/a/bioinformatics.ca/file/d/1NjZoKi9KU76zBsOVtNvSPJ14NnM-SQ1H/view?usp=sharing
+[Metagenomics Analysis](https://drive.google.com/a/bioinformatics.ca/file/d/1evu7ozfBybDXCNRZIIwF1i6IeLn0s_T1/view?usp=sharing)
 
-Francois Introduction to Machine Learning for Biological Data https://drive.google.com/a/bioinformatics.ca/file/d/1XVHd7M3RSk2zDsQ3pGpgzulUmcsy34Xa/view?usp=sharing
+*<font color="#827e9c">Frédéric Raymond</font>*
 
-Mickael Leclercq ElasticSearch to Facilitate Data Mining of Human Microbiome Databases https://drive.google.com/a/bioinformatics.ca/file/d/1Krl82RHpLOvgOI_9CJjXc85BVx1QT5Es/view?usp=sharing
+[Assembly Based Metagenomics]https://drive.google.com/a/bioinformatics.ca/file/d/1gz0WDrnE2mqV22h4kCaeoCoIiI5pH4rY/view?usp=sharing)
 
-Morgan Langille PICRUSt: Metagenomic Inference https://drive.google.com/a/bioinformatics.ca/file/d/1wZhVinOfVXCMU1Z4lo3EkuMayygu_f0k/view?usp=sharing
+## Practical Training 2
 
-16S Analysis/QIIME tutorial Morgan Langille https://drive.google.com/a/bioinformatics.ca/file/d/1ERpUwcAbxa3hQvKJWSdl2w8rzW1SWE5_/view?usp=sharing
+[RayMeta tutorial](https://fredericraymond.github.io/microbiome-summer-school-2017-metagenomics/)
+
+[Metagenomics tutorial (HuMANN2)](https://github.com/LangilleLab/microbiome_helper/wiki/Metagenomics-Tutorial-(Humann2))
+
+# Day 2 <a id="day2"></a>
+
+## Plenary 4
+
+*<font color="#827e9c">Fiona Brinkman</font>*
+
+[Microbiome Biomarker Discovery](https://drive.google.com/a/bioinformatics.ca/file/d/1_5UbLQhGYalH0AIRpqkWAUxCKat9PJfk/view?usp=sharing)
+
+## Practical Training 3
+
+*<font color="#827e9c">Morgan Langille</font>*
+
+[PICRUSt: Metagenomic Inference](https://drive.google.com/a/bioinformatics.ca/file/d/1wZhVinOfVXCMU1Z4lo3EkuMayygu_f0k/view?usp=sharing)
+
+[PICRUSt tutorial](https://github.com/LangilleLab/microbiome_helper/wiki/PICRUSt-tutorial)
+
+## Plenary 5
+
+*<font color="#827e9c">John Parkinson</font>*
+
+[Metatranscriptomics](https://drive.google.com/a/bioinformatics.ca/file/d/1yrIH025GV095ZeafJppfP4VTIsP67Kcz/view?usp=sharing)
+
+*<font color="#827e9c">Jacques Corbeil</font>*
+
+[GUTOME 1010 and Beyond](https://drive.google.com/a/bioinformatics.ca/file/d/1NjZoKi9KU76zBsOVtNvSPJ14NnM-SQ1H/view?usp=sharing)
+
+## Practical Training 4
+
+[RaySurveyor tutorial](http://zorino.github.io/raysurveyor-tutorial/#/)
+
+[Metatranscriptomics tutorial](https://github.com/ParkinsonLab/2017-Microbiome-Workshop)
+
+# Day 3 <a id="day3"></a>
+
+## Plenary 6
+
+*<font color="#827e9c">Marie-Pierre Dubé</font>*
+
+[Host Genomics Applied to the Microbiome](https://drive.google.com/a/bioinformatics.ca/file/d/1ygtAlYd_ur1ak6lgPnY5aYOpO0eTKSdf/view?usp=sharing)
+
+## Plenary 7
+
+*<font color="#827e9c">François Laviolette</font>*
+
+[Introduction to Machine Learning for Biological Data](https://drive.google.com/a/bioinformatics.ca/file/d/1XVHd7M3RSk2zDsQ3pGpgzulUmcsy34Xa/view?usp=sharing)
+
+## Practical Training 5
+
+[Introduction to Machine Learning](https://aldro61.github.io/microbiome-summer-school-2017/)
+
+
+# Day 4 <a id="day4"></a>
+
+## Plenary 8
+
+*<font color="#827e9c">Mickael Leclercq</font>*
+
+[ElasticSearch to Facilitate Data Mining of Human Microbiome Databases](https://drive.google.com/a/bioinformatics.ca/file/d/1Krl82RHpLOvgOI_9CJjXc85BVx1QT5Es/view?usp=sharing)
+
+## Plenary 9
+
+*<font color="#827e9c">Mario Marchand</font>*
+
+[Algorithms for Mass Spectrometry]()
+
+## Plenary 10
+
+*<font color="#827e9c">Chloé-Agathe Azencott</font>*
+
+[Efficient Multi-Locus Biomarker Discovery](https://drive.google.com/a/bioinformatics.ca/file/d/1g71GCfgQMOQCHRCZ9vIKJHLJsqUvW1us/view?usp=sharing)
+
+## Practical Training 6
+
+[Introduction to Mass Spectrometry Preprocessing and Machine Learning](https://francisbrochu.github.io/microbiome-summer-school-2017_mass-spec/)
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -69,7 +69,7 @@ This Summer School is a joint offering by the Canadian Institutes of Health Rese
 
 *<font color="#827e9c">Frédéric Raymond</font>*
 
-[Assembly Based Metagenomics]https://drive.google.com/a/bioinformatics.ca/file/d/1gz0WDrnE2mqV22h4kCaeoCoIiI5pH4rY/view?usp=sharing)
+[Assembly Based Metagenomics](https://drive.google.com/a/bioinformatics.ca/file/d/1gz0WDrnE2mqV22h4kCaeoCoIiI5pH4rY/view?usp=sharing)
 
 ## Practical Training 2
 

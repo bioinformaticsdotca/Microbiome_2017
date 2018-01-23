@@ -4,7 +4,7 @@ permalink: /mss_2017
 title: Microbiome Summer School
 header1: Workshop Pages for Students
 header2: Microbiome Summer School - Big Data Analytics for Omics Science
-image: /site_images/CBW_population_icon.jpg
+image: /site_images/CBW_Metagenome_icon.jpg
 ---
 
 # Welcome <a id="welcome"></a>

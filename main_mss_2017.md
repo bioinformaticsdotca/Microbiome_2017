@@ -5,7 +5,7 @@ title: Microbiome Summer School
 header1: Workshop Pages for Students
 header2: Microbiome Summer School - Big Data Analytics for Omics Science
 image: /site_images/CBW_Metagenome_icon.jpg
-keywords: design appropriate microbiome-focused experiments, devise bioinformatics workflow for processing and analyzing metagenomic sequence data, machine learning approaches to solve problems
+keywords: appropriate microbiome-focused experiments, devise bioinformatics workflow for processing and analyzing metagenomic data, machine learning approaches
 description: Course provides introduction to the use of bioinformatics in microbiome research as well as big data analytics applied to this field. 
 instructors: Jacques Corbeil, Robert Beiko, Morgan Langille, Frédéric Raymond, Fiona Brinkman, John Parkinson, Marie-Pierre Dubé, François Laviolette, Mario Marchand, Chloé-Agathe Azencott
 length: 4 days
